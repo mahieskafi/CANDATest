@@ -1,5 +1,12 @@
 <resources>
-    <string name="app_name">C&amp;A_Test</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
+    <string name="app_name">TestApp</string>
+    <string name="tab_text_1">Weather</string>
+    <string name="tab_text_2">C&amp;A</string>
+
+    <string name="feeling_label">Feels like</string>
+    <string name="humidity_label">Humidity</string>
+    <string name="forecast_list_title">Forecast</string>
+
+    <string name="icon_suffix">\u00404x.png</string>
+    <string name="forecast_icon_suffix">\u00402x.png</string>
 </resources>
